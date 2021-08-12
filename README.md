@@ -1,4 +1,4 @@
-# capestone
+# CAPSTONE PROJECT
 
 ## About
 
